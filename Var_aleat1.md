@@ -5,7 +5,7 @@
 
 <p><strong>MATEMÁTICAS APLICADAS A LAS CIENCIAS SOCIALES II</strong><br>
 <strong>2</strong>.-- <strong>VARIABLES ALEATORIAS</strong></p>
-<p><strong>2</strong>.<strong>3</strong>. <strong>Ejercicio 4</strong>*<br>
+<p><strong>2</strong>.<strong>3</strong>. <strong>Ejercicio 4</strong><br>
 Una máquina fabrica tornillos de una longitud determinada. Se sabe que<br>
 un 5% de los tornillos no se ajustan a esa longitud. Seleccionamos al<br>
 azar un paquete que contiene 12 tornillos.</p>
@@ -17,7 +17,7 @@ azar un paquete que contiene 12 tornillos.</p>
 <p>c) ¿Y de encontrar 2 o menos defectuosos?<br>
 d) Si observamos muchos paquete de 12 tornillos ¿cuál es la media de<br>
 tornillos defetuosos por paquete que debemos esperar?</p>
-<p><strong>2</strong>.<strong>4</strong>. <strong>Ejercicio 5</strong>*<br>
+<p><strong>2</strong>.<strong>4</strong>. <strong>Ejercicio 5</strong><br>
 Se lanza un dado 8 veces.<br>
 a) ¿Cuál es la probabilidad de obtener exactamente 4 unos?<br>
 b) ¿Y de no obtener ningún uno?<br>
