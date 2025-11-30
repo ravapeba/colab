@@ -71,8 +71,8 @@ b) ¿Cuál es la probabilidad de que todas las preguntas seleccionadas estén ac
 En un cierto sector laboral se sabe que los 3500 trabajadores que se dedican a él, 2150 son<br>
 mujeres. Se toma una muestra aleatoria de 75 trabajadores para realizar una evaluación de la<br>
 seguridad laboral en el sector.<br>
-a) ¿Cuál es la probabilidad de que haya más mujeres que hombres en la muestra?<br>
-b) ¿Cuál es la probabilidad de que la proporción de mujeres en la muestra supere el 75%?</p>
+a) ¿Cuál es la probabilidad de que haya más mujeres que hombres en la muestra? sol: aprox 1<br>
+b) ¿Cuál es la probabilidad de que la proporción de mujeres en la muestra supere el 75%? sol: 0.26</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
