@@ -9,9 +9,10 @@ Una industria conservera envasa latas de sardinas, cuyo peso sigue una distribuc
 media μ y desviación típica σ =1.<br>
 a) Suponiendo que μ =90 gramos y que cada lata debe pesar entre 88 y 92 gramos para<br>
 salir al mercado, ¿qué proporción de latas salen efectivamente al mercado?<br>
+sol: .9545<br>
 b) Suponiendo que se desconoce μ , se toma una muestra de 25 latas para su estimación,<br>
 obteniéndose un media muestral de 90. 25 gramos. Determina un intervalo de confianza al 95%<br>
-para μ .</p>
+para μ . sol: 90.25± .392</p>
 <p><strong>Ejercicio 2 [PAU]</strong><br>
 Una empresa fabrica tornillos para llantas cuyo diámetro sigue una distribución normal de media μ<br>
 milímetros y desviación típica 2 milímetros. Se selecciona un lote de 100 tornillos y resulta una<br>
