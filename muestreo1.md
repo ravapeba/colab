@@ -33,8 +33,9 @@ La temperatura del cuerpo humano sigue una distribución normal de media 37° C 
 típica de 1. 5° C.<br>
 a) Halla la probabilidad de que la temperatura de una persona esté comprendida entre 36. 5° C y 37. 5 °C.<br>
 b) Si elegimos una muestra de 25 personas, ¿cuál es la probabilidad de que la media de sus temperaturas sea mayor que 36. 7° C?</p>
-<p><strong>EJERCICIOS SOBRE LA SUMA MUESTRAL<br>
-Ejercicio 5</strong>*<br>
+<p><strong>EJERCICIOS SOBRE LA SUMA MUESTRAL</strong></p>
+<p>N(muXn,sigmaXraiz(n))</p>
+<p><strong>Ejercicio 5</strong><br>
 Un ascensor indica en una placa que puede trasladar un máximo de 6 personas con un peso total<br>
 máximo de 450kg. En esa ciudad, los pesos de sus habitantes siguen una distribución normal de<br>
 media 78kg y desviación típica 2. 7 kg.<br>
@@ -47,12 +48,14 @@ b) Para transportar las cajas se dispone de un camión que tiene autorizado un p
 2000 kg en total. ¿Cuál es la probabilidad de que el camión soporte la carga de 41 cajas sin<br>
 exponerse a superar el peso máximo autorizado?</p>
 <p><strong>EJERCICIOS SOBRE LA PROPORCIÓN MUESTRAL</strong></p>
+<p>N(p,raiz(pq/n)), p y q poblacionales</p>
 <p><strong>Ejercicio 7</strong>*<br>
 En cierta población una enfermedad ha afectado al 35% de sus habitantes. Se selecciona una<br>
 muestra aleatoria de 40 ciudadanos para realizar un estudio médico.<br>
 a) ¿Cuál es la probabilidad de que el porcentaje de afectados por la enfermedad, dentro de la<br>
-muestra, supere el 46%?<br>
-b) ¿Y de que sea inferior al 20%?</p>
+muestra, supere el 46%? sol.: 0.071<br>
+b) ¿Y de que sea inferior al 20%?<br>
+sol.: 0.022</p>
 <p><strong>Ejercicio 8</strong><br>
 En un centro educativo con 320 alumnos hay 115 que estudian bachillerato. Se selecciona al azar<br>
 un grupo de 25 alumnos, para asistir a una excursión.<br>
