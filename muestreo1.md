@@ -65,8 +65,8 @@ b) ¿Y de que sean más del 75%? sol: 7.8 exp -5</p>
 En un examen de 100 preguntas tipo test se sabe que se han acertado el 85% de las cuestiones.<br>
 Para realizar un trabajo estadístico se selecciona al azar 35 preguntas.<br>
 a) ¿Cuál es la probabilidad de encontrar un porcentaje de preguntas acertadas comprendido entre<br>
-el 73% y el 97%?<br>
-b) ¿Cuál es la probabilidad de que todas las preguntas seleccionadas estén acertadas?</p>
+el 73% y el 97%? sol: .954<br>
+b) ¿Cuál es la probabilidad de que todas las preguntas seleccionadas estén acertadas? sol: 0</p>
 <p><strong>Ejercicio 10</strong><br>
 En un cierto sector laboral se sabe que los 3500 trabajadores que se dedican a él, 2150 son<br>
 mujeres. Se toma una muestra aleatoria de 75 trabajadores para realizar una evaluación de la<br>
