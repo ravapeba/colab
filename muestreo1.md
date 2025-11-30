@@ -59,11 +59,11 @@ sol.: 0.022</p>
 <p><strong>Ejercicio 8</strong><br>
 En un centro educativo con 320 alumnos hay 115 que estudian bachillerato. Se selecciona al azar<br>
 un grupo de 25 alumnos, para asistir a una excursión.<br>
-a) ¿Cuál es la probabilidad de que al menos un 50% de los asistentes sean estudiantes de bachillerato?<br>
-b) ¿Y de que sean más del 75%?</p>
+a) ¿Cuál es la probabilidad de que al menos un 50% de los asistentes sean estudiantes de bachillerato? sol: .115<br>
+b) ¿Y de que sean más del 75%? sol: 7.8 exp -5</p>
 <p><strong>Ejercicio 9</strong><br>
 En un examen de 100 preguntas tipo test se sabe que se han acertado el 85% de las cuestiones.<br>
-Para realizar un trabajo estadístico se selccionana al azar 35 preguntas.<br>
+Para realizar un trabajo estadístico se selecciona al azar 35 preguntas.<br>
 a) ¿Cuál es la probabilidad de encontrar un porcentaje de preguntas acertadas comprendido entre<br>
 el 73% y el 97%?<br>
 b) ¿Cuál es la probabilidad de que todas las preguntas seleccionadas estén acertadas?</p>
