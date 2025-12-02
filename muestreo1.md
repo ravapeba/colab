@@ -19,20 +19,20 @@ z2=(9.75-8.5)/1.25=1<br>
 F(1)-F(-0.4)= .496</em></p>
 <p>b) <strong>x</strong>  ~ N(8.5, 1.25/raiz8)</p>
 <p><strong>Ejercicio 2</strong><br>
-La concentración en el aire de una cierta partícula se mide en miligramos por metro cúbico (mg/m3). Se sabe que una cierta zona la concentración sigue una disitrbución normal de media mu= 3 mg/m3, con una desviación típica sd= 0. 65 mg/m3.<br>
-Si se toman 40 mediciones de la concentración, ¿cuál es la probabilidad de que la media de esas mediciones sea superior a 3. 22 mg/ m3?</p>
+La concentración en el aire de una cierta partícula se mide en miligramos por metro cúbico (mg/m3). Se sabe que una cierta zona la concentración sigue una distribución normal de media mu= 3 mg/m3, con una desviación típica sd= 0. 65 mg/m3.<br>
+Si se toman 40 mediciones de la concentración, ¿cuál es la probabilidad de que la media de esas mediciones sea superior a 3. 22 mg/ m3? sol: .016</p>
 <p><strong>Ejercicio 3</strong><br>
 Unos estudios estadísticos afirman que las notas de acceso a una cierta universidad se distribuyen<br>
 según una normal de media 7. 85 puntos y varianza 6. 25 puntos2.<br>
 a) Calcula la probabilidad de que un estudiante, elegido al azar, tenga una nota superior a 8. 15<br>
-puntos.<br>
+puntos. sol: .452<br>
 b) Se toma una muestra de 35 estudiantes. ¿Cuál es la probabilidad de que su nota media esté<br>
-comprendida entre 7. 80 y 7. 90 puntos?</p>
+comprendida entre 7. 80 y 7. 90 puntos? sol: .094</p>
 <p><strong>Ejercicio 4 (PAU)</strong><br>
 La temperatura del cuerpo humano sigue una distribución normal de media 37° C y desviación<br>
 típica de 1. 5° C.<br>
-a) Halla la probabilidad de que la temperatura de una persona esté comprendida entre 36. 5° C y 37. 5 °C.<br>
-b) Si elegimos una muestra de 25 personas, ¿cuál es la probabilidad de que la media de sus temperaturas sea mayor que 36. 7° C?</p>
+a) Halla la probabilidad de que la temperatura de una persona esté comprendida entre 36. 5° C y 37. 5 °C. sol: .261<br>
+b) Si elegimos una muestra de 25 personas, ¿cuál es la probabilidad de que la media de sus temperaturas sea mayor que 36. 7° C? sol: .841</p>
 <p><strong>EJERCICIOS SOBRE LA SUMA MUESTRAL</strong></p>
 <p>N(muXn,sigmaXraiz(n))</p>
 <p><strong>Ejercicio 5</strong><br>
