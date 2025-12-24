@@ -16,7 +16,7 @@ e tamén os paspallás.</p>
 o Neno xoga a espantar<br>
 os paspallás (x2)<br>
 e-as estrelas da néboa<br>
-que-roldan<br>
+que roldan<br>
 fora-o-portal.  (x2)</p>
 <p>San Xosé<br>
 chámao e chámao, (x2)<br>
@@ -31,7 +31,7 @@ estreliñas,<br>
 cata as douradas, rapaz,<br>
 ¡cátaas rapaz!, (x2)<br>
 lonxe, as-ben-feitiñas,<br>
-de Belén<br>
+de-Belén<br>
 te levarán. (x2)</p>
 <hr>
 <blockquote>
