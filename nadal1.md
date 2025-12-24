@@ -22,20 +22,20 @@ e-as estrelas da néboa<br>
 que-roldan<br>
 fora-o-portal.  (x2)</p>
 <p>San Xosé<br>
-chamáo e chamáo, (x2)<br>
+chámao e chámao, (x2)<br>
 A Virxe<br>
-deixao folgar, (x2)<br>
-E-os Anxos do tellado<br>
+déixao folgar, (x2)<br>
+E-os-Anxos do tellado<br>
 cantanlle-e<br>
 tocan campás. (x2)</p>
 <p>Dade outra volta,<br>
 estreliñas,<br>
 ¡dade unha mais!, (x2)<br>
 cata as douradas, rapaz,<br>
-¡cataás rapaz!, (x2)<br>
-coida-que-as-ben-feitiñas<br>
+¡cátaas rapaz!, (x2)<br>
+lonxe, as-ben-feitiñas,<br>
 de Belén<br>
-te alonxarán. (x2)</p>
+te levarán. (x2)</p>
 <hr>
 <blockquote>
 <p>(final)<br>
