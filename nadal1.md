@@ -8,7 +8,7 @@
 <p>(intro)<br>
 Corren-voan-veñen-van<br>
 polos-eídos-do-portal<br>
-Neno-néboas, Neno-estrelas,<br>
+Neno-néboas-Neno-estrelas<br>
 e tamén os paspallás.</p>
 </blockquote>
 <p>No Nadaaaaaal …</p>
@@ -38,7 +38,7 @@ te levarán. (x2)</p>
 <p>(final)<br>
 Corren-voan-veñen-van<br>
 polos-eídos-do-portal<br>
-Neno-néboas, Neno-estrelas,<br>
+Neno-néboas-Neno-estrelas<br>
 e tamén<br>
 os paspallás. (x2)</p>
 </blockquote>
