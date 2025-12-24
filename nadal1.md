@@ -20,7 +20,7 @@ o Neno xoga a espantar<br>
 os paspallás (x2)<br>
 e-as estrelas da néboa<br>
 que-roldan<br>
-fora o portal.  (x2)</p>
+fora-o-portal.  (x2)</p>
 <p>San Xosé<br>
 chamáo e chamáo, (x2)<br>
 A Virxe<br>
