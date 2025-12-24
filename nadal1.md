@@ -6,16 +6,13 @@
 <h2 id="panxoliña"><strong>Panxoliña</strong></h2>
 <blockquote>
 <p>(intro)<br>
-Corren-voan<br>
-veñen-van<br>
-polos-eidos-do-portal<br>
-Neno-néboas,<br>
-Neno-estrelas,<br>
-e tamén<br>
-os paspallás.</p>
+Corren-voan-veñen-van<br>
+polos-eídos-do-portal<br>
+Neno-néboas, Neno-estrelas,<br>
+e tamén os paspallás.</p>
 </blockquote>
-<p>No Nadaaaaaal …<br>
-¡Ay no Nadal! (x2)<br>
+<p>No Nadaaaaaal …</p>
+<p>¡Ay no Nadal! (x2)<br>
 o Neno xoga a espantar<br>
 os paspallás (x2)<br>
 e-as estrelas da néboa<br>
@@ -39,11 +36,9 @@ te levarán. (x2)</p>
 <hr>
 <blockquote>
 <p>(final)<br>
-Corren-voan<br>
-veñen-van<br>
-polos-eidos-do-portal<br>
-Neno-néboas,<br>
-Neno-estrelas,<br>
+Corren-voan-veñen-van<br>
+polos-eídos-do-portal<br>
+Neno-néboas, Neno-estrelas,<br>
 e tamén<br>
 os paspallás. (x2)</p>
 </blockquote>
