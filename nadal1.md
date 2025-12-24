@@ -25,7 +25,7 @@ déixao folgar, (x2)<br>
 E-os-Anxos do tellado<br>
 cantanlle-e<br>
 tocan campás. (x2)</p>
-<p>Dade outra volta,<br>
+<p>Dade outra volta<br>
 estreliñas,<br>
 ¡dade unha mais!, (x2)<br>
 cata as douradas, rapaz,<br>
