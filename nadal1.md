@@ -11,7 +11,7 @@ polos-eidos-do-portal<br>
 Neno-néboas,<br>
 Neno-estrelas,<br>
 e tamén<br>
-os paspallás (x2)</p>
+os paspallás.</p>
 </blockquote>
 <p>No Nadaaaaaal<br>
 Ay no Nadal, (x2)<br>
@@ -43,7 +43,7 @@ polos-eidos-do-portal<br>
 Neno-néboas,<br>
 Neno-estrelas,<br>
 e tamén<br>
-os paspallás (x2)</p>
+os paspallás. (x2)</p>
 </blockquote>
 <hr>
 <blockquote>
