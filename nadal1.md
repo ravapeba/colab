@@ -33,7 +33,7 @@ estreliñas,<br>
 ¡dade unha mais!, (x2)<br>
 cata as douradas, rapaz,<br>
 ¡cataás rapaz!, (x2)<br>
-coida que-as ben feitiñas<br>
+coida que as ben feitiñas<br>
 de Belén<br>
 te alonxarán. (x2)</p>
 <hr>
