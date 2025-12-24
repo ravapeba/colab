@@ -5,7 +5,8 @@
 
 <h2 id="panxoliña"><strong>Panxoliña</strong></h2>
 <blockquote>
-<p>Corren-voan<br>
+<p>(intro)<br>
+Corren-voan<br>
 veñen-van<br>
 polos-eidos-do-portal<br>
 Neno-néboas,<br>
@@ -37,7 +38,8 @@ de Belén<br>
 te alonxarán. (x2)</p>
 <hr>
 <blockquote>
-<p>Corren-voan<br>
+<p>(final)<br>
+Corren-voan<br>
 veñen-van<br>
 polos-eidos-do-portal<br>
 Neno-néboas,<br>
