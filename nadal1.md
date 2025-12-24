@@ -25,8 +25,8 @@ fora o portal.  (x2)</p>
 chamáo e chamáo, (x2)<br>
 A Virxe<br>
 deixao folgar, (x2)<br>
-E-os Anxos<br>
-do tellado cantanlle-e<br>
+E-os Anxos do tellado<br>
+cantanlle-e<br>
 tocan campás. (x2)</p>
 <p>Dade outra volta,<br>
 estreliñas,<br>
