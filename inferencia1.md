@@ -28,7 +28,8 @@ mensual en ese municipio.</p>
 En una provincia se desea estimar la proporción de estudiantes de primaria que han nacido en la<br>
 misma provincia. Para ello se toma una muestra de 350 estudiantes y en ella se encuentra que 185<br>
 han nacido en la provincia.<br>
-Calcula un intervalo de confianza para la proporción poblacional con una confianza del 99%.</p>
+Calcula un intervalo de confianza para la proporción poblacional con una confianza del 99%.<br>
+sol: 0.53 ± 0.067 (53±6.7)</p>
 <p><strong>Ejercicio 5</strong><br>
 Se desea estimar la proporción de espectadores que seguirían una nueva serie de televisión. Para<br>
 ello se realiza una encuesta a 1500 ciudadanos, y de ellos el 76% afirman que seguirían la serie.<br>
