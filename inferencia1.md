@@ -4,8 +4,6 @@
 ---
 
 <p><strong>Tema 4.– INFERENCIA ESTADÍSTICA</strong></p>
-<p><a href="https://contribuyente.valladolid.es/sta/CarpetaPublic/Public?APP_CODE=STA&amp;PAGE_CODE=OVC_SPT">https://contribuyente.valladolid.es/sta/CarpetaPublic/Public?APP_CODE=STA&amp;PAGE_CODE=OVC_SPT</a></p>
-<p><a href="https://www.valladolid.gob.es/es/pago-recibos-liquidaciones-multas-carpeta-contribuyente">https://www.valladolid.gob.es/es/pago-recibos-liquidaciones-multas-carpeta-contribuyente</a></p>
 <p><strong>Ejercicio 1# [PAU]</strong><br>
 Una industria conservera envasa latas de sardinas, cuyo peso sigue una distribución normal con<br>
 media μ y desviación típica σ =1.<br>
