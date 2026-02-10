@@ -5,6 +5,7 @@
 
 <p><a href="https://ravapeba.github.io/img/clases/dominios.png">dominios</a></p>
 <p><a href="https://ravapeba.github.io/img/clases/limites1.png">limites1</a></p>
+<p><a href="https://ravapeba.github.io/img/clases/limites2.png">limites2</a></p>
 <p><a href="https://ravapeba.github.io/img/clases/dominios1.png">dominios1</a></p>
 <p><a href="https://ravapeba.github.io/img/clases/dominios2.png">dominios2</a></p>
 <p><a href="https://ravapeba.github.io/img/clases/dominios3.png">dominios3</a></p>
