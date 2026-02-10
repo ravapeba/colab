@@ -11,6 +11,7 @@
 <p><a href="https://ravapeba.github.io/img/clases/ebau23_4.png">ebau23_4</a></p>
 <p><a href="https://ravapeba.github.io/img/clases/ebau23_c2.png">ebau23_c2</a></p>
 <p><a href="https://ravapeba.github.io/img/clases/ebau23_p4.png">ebau23_p4</a></p>
+<p><a href="https://ravapeba.github.io/img/clases/ebau21_c2.png">ebau21_c2</a></p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
