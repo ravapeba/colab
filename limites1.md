@@ -8,7 +8,8 @@
 <p><a href="https://ravapeba.github.io/img/clases/ebau24_3.png">ebau24_3</a></p>
 <p><a href="https://ravapeba.github.io/img/clases/ebau24_33.png">ebau24_33</a></p>
 <p><a href="https://ravapeba.github.io/img/clases/ebau24_333.png">ebau24_333</a></p>
-<p><a href="https://ravapeba.github.io/img/clases/ebau24_4.png">ebau23_4</a></p>
+<p><a href="https://ravapeba.github.io/img/clases/ebau23_4.png">ebau23_4</a></p>
+<p><a href="https://ravapeba.github.io/img/clases/ebau23_c2.png">ebau23_c2</a></p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
