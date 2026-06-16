@@ -1,5 +1,5 @@
 <h4 id="herramientas-relacionadas-con-el-consorcio-de-compensación-de-seguros-ccs">Herramientas relacionadas con el Consorcio de Compensación de Seguros (CCS)</h4>
-<h4 id="rachas-máximas"><a href="'https://www.aemet.es'">Rachas máximas</a></h4>
+<h4 id="rachas-máximas"><a href="https://www.aemet.es">Rachas máximas</a></h4>
 <ul>
 <li>Operativa desde febrero de 2024</li>
 <li>Continúa el trabajo previo existente (A. Chazarra, M. Rodrigo)</li>
