@@ -2,7 +2,7 @@
 <blockquote>
 <p><a href="http://climatop.aemet.es/ramon/informes/procedimiento_tca/boe/BOE-A-2004-3373-consolidado.pdf">BOE de 24 de febrero de 2004, actualización de 2015</a></p>
 </blockquote>
-<h4 id="rachas-máximas-httpclimatop.aemet.es3838rmax24h">Rachas máximas, <a href="http://climatop.aemet.es:3838/rmax24h/">http://climatop.aemet.es:3838/rmax24h/</a></h4>
+<h4 id="rachas-máximas-httpclimatop.aemet.es3838rmax24h">1. Rachas máximas, <a href="http://climatop.aemet.es:3838/rmax24h/">http://climatop.aemet.es:3838/rmax24h/</a></h4>
 <ul>
 <li>Codificada en R, corre sobre un  servidor <em>shiny</em> asociado a <em>climatop</em> (M. Gómez)</li>
 <li>Basada en datos del BNDC de Aemet, Meteogalicia, Servei, La Rioja Meteo, Euskalmet, Meteonavarra y Avamet</li>
@@ -14,10 +14,11 @@
 <li>servicio a las peticiones del CCS (TCAs de viento)</li>
 <li>apoyo en la elaboración de informes de vientos de origen convectivo,</li>
 <li>verificación de avisos de viento del SNP</li>
+<li></li>
 </ul>
 </li>
 </ul>
-<h4 id="precipitaciones-intensashttpclimatop.aemet.es3838precip">Precipitaciones intensas,<a href="http://climatop.aemet.es:3838/precip/">http://climatop.aemet.es:3838/precip/</a></h4>
+<h4 id="precipitaciones-intensashttpclimatop.aemet.es3838precip">2. Precipitaciones intensas,<a href="http://climatop.aemet.es:3838/precip/">http://climatop.aemet.es:3838/precip/</a></h4>
 <ul>
 <li>En desarrollo</li>
 <li>Codificada en R, corre sobre un  servidor <em>shiny</em> asociado a <em>climatop</em> (M. Gómez)</li>
