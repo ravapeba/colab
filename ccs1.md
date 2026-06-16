@@ -1,9 +1,10 @@
 <h4 id="herramientas-relacionadas-con-el-consorcio-de-compensación-de-seguros-ccs">Herramientas relacionadas con el Consorcio de Compensación de Seguros (CCS)</h4>
-<h4 id="rachas-máximas"><a href="http://climatop.aemet.es:3838/rmax24h/">Rachas máximas</a></h4>
+<h4 id="rachas-máximas-httpclimatop.aemet.es3838rmax24h">Rachas máximas <a href="http://climatop.aemet.es:3838/rmax24h/">http://climatop.aemet.es:3838/rmax24h/</a></h4>
 <ul>
+<li>Codificada en R, corre sobre un  servidor <em>shiny</em> asociado a <em>climatop</em></li>
 <li>Operativa desde febrero de 2024</li>
-<li>Continúa el trabajo previo existente (A. Chazarra, M. Rodrigo)</li>
-<li>Aplicaciones:
+<li>Continúa y automatiza el trabajo previo existente (A. Chazarra, M. Rodrigo)</li>
+<li>Aplicaciones operativas:
 <ul>
 <li>servicio a las peticiones del CCS,</li>
 <li>apoyo en la elaboración de informes de vientos de origen convectivo,</li>
