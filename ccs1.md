@@ -1,4 +1,4 @@
-<h4 id="herramientas-relacionadas-con-el-consorcio-de-compensación-de-seguros-ccs-boe-de-24-de-febrero-de-2004">Herramientas relacionadas con el Consorcio de Compensación de Seguros (CCS), <a href="http://climatop.aemet.es/ramon/informes/procedimiento_tca/boe/BOE-A-2004-3373-consolidado.pdf">BOE de 24 de febrero de 2004</a></h4>
+<h4 id="herramientas-relacionadas-con-el-consorcio-de-compensación-de-seguros-ccs-boe-de-24-de-febrero-de-2004-actualización-de-2015">Herramientas relacionadas con el Consorcio de Compensación de Seguros (CCS), <a href="http://climatop.aemet.es/ramon/informes/procedimiento_tca/boe/BOE-A-2004-3373-consolidado.pdf">BOE de 24 de febrero de 2004, actualización de 2015</a></h4>
 <h4 id="rachas-máximas-httpclimatop.aemet.es3838rmax24h">Rachas máximas, <a href="http://climatop.aemet.es:3838/rmax24h/">http://climatop.aemet.es:3838/rmax24h/</a></h4>
 <ul>
 <li>Codificada en R, corre sobre un  servidor <em>shiny</em> asociado a <em>climatop</em> (M. Gómez)</li>
