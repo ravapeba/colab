@@ -4,10 +4,11 @@
 <li>Codificada en R, corre sobre un  servidor <em>shiny</em> asociado a <em>climatop</em> (M. Gómez)</li>
 <li>Basada en datos del BNDC de Aemet, Meteogalicia, Servei, La Rioja Meteo, Euskalmet, Meteonavarra y Avamet</li>
 <li>Operativa desde febrero de 2024</li>
-<li>Continúa y automatiza el trabajo previo existente (A. Chazarra, M. Rodrigo) y incorpora asesoría y colaboración del CCS (U. Elosegui)</li>
+<li>Continúa y automatiza el trabajo previo existente (A. Chazarra, M. Rodrigo)</li>
+<li>Incorpora asesoría del CCS (U. Elosegui)</li>
 <li>Aplicaciones operativas:
 <ul>
-<li>servicio a las peticiones del CCS,</li>
+<li>servicio a las peticiones del CCS (TCA de viento)</li>
 <li>apoyo en la elaboración de informes de vientos de origen convectivo,</li>
 <li>verificación de avisos de viento del SNP</li>
 </ul>
@@ -17,7 +18,14 @@
 <ul>
 <li>En desarrollo</li>
 <li>Codificada en R, corre sobre un  servidor <em>shiny</em> asociado a <em>climatop</em> (M. Gómez)</li>
-<li>Posibles aplicaciones: apoyo en la elaboración de informes de tornados</li>
+<li>Posibles aplicaciones operativas:
+<ul>
+<li>servicio a las peticiones del CCS (TCA combinado: viento y precipitación)</li>
+<li>apoyo en la elaboración de informes de vientos intensos de origen convectivo</li>
+<li>verificación de avisos de precipitación del SNP</li>
+<li>estudios de torrencialidad</li>
+</ul>
+</li>
 </ul>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
