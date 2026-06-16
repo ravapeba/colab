@@ -1,5 +1,5 @@
 <h4 id="herramientas-relacionadas-con-el-consorcio-de-compensación-de-seguros-ccs">Herramientas relacionadas con el Consorcio de Compensación de Seguros (CCS)</h4>
-<h4 id="rachas-máximas"><a href="https://www.aemet.es">Rachas máximas</a></h4>
+<h4 id="rachas-máximas"><a href="http://climatop.aemet.es:3838/rmax24h/">Rachas máximas</a></h4>
 <ul>
 <li>Operativa desde febrero de 2024</li>
 <li>Continúa el trabajo previo existente (A. Chazarra, M. Rodrigo)</li>
@@ -11,7 +11,7 @@
 </ul>
 </li>
 </ul>
-<h4 id="precipitaciones-intensas">Precipitaciones intensas</h4>
+<h4 id="precipitaciones-intensas"><a href="http://climatop.aemet.es:3838/precip/">Precipitaciones intensas</a></h4>
 <ul>
 <li>En desarrollo</li>
 <li>Posibles aplicaciones: apoyo en la elaboración de informes de tornados</li>
