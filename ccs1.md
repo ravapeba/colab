@@ -12,6 +12,7 @@
 <li>servicio a las peticiones del CCS (TCAs de viento)</li>
 <li>apoyo en la elaboración de informes de vientos de origen convectivo,</li>
 <li>verificación de avisos de viento del SNP</li>
+<li>estudios sobre climatología de rachas máximas</li>
 </ul>
 </li>
 </ul>
@@ -24,7 +25,7 @@
 <li>servicio a las peticiones del CCS (TCAs combinados: viento y precipitación)</li>
 <li>apoyo en la elaboración de informes de vientos intensos de origen convectivo</li>
 <li>verificación de avisos de precipitación del SNP</li>
-<li>estudios de torrencialidad</li>
+<li>estudios climáticos sobre  torrencialidad</li>
 </ul>
 </li>
 </ul>
