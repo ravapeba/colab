@@ -14,7 +14,7 @@
 </ul>
 </li>
 </ul>
-<h4 id="precipitaciones-intensas"><a href="http://climatop.aemet.es:3838/precip/">Precipitaciones intensas</a></h4>
+<h4 id="precipitaciones-intensas-httpclimatop.aemet.es3838precip">Precipitaciones intensas <a href="http://climatop.aemet.es:3838/precip/">http://climatop.aemet.es:3838/precip/</a></h4>
 <ul>
 <li>En desarrollo</li>
 <li>Codificada en R, corre sobre un  servidor <em>shiny</em> asociado a <em>climatop</em> (M. Gómez)</li>
