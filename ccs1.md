@@ -4,7 +4,7 @@
 <li>Codificada en R, corre sobre un  servidor <em>shiny</em> asociado a <em>climatop</em> (M. Gómez)</li>
 <li>Basada en datos del BNDC de Aemet, Meteogalicia, Servei, La Rioja Meteo, Euskalmet, Meteonavarra y Avamet</li>
 <li>Operativa desde febrero de 2024</li>
-<li>Continúa y automatiza el trabajo previo existente (A. Chazarra, M. Rodrigo) y recibe asesoría del CCS (U. Elosegui)</li>
+<li>Continúa y automatiza el trabajo previo existente (A. Chazarra, M. Rodrigo) y incorpora asesoría y colaboración del CCS (U. Elosegui)</li>
 <li>Aplicaciones operativas:
 <ul>
 <li>servicio a las peticiones del CCS,</li>
