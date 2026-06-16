@@ -12,7 +12,6 @@
 <li>servicio a las peticiones del CCS (TCAs de viento)</li>
 <li>apoyo en la elaboración de informes de vientos de origen convectivo,</li>
 <li>verificación de avisos de viento del SNP</li>
-<li></li>
 </ul>
 </li>
 </ul>
